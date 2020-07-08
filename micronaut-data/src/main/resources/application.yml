@@ -1,0 +1,10 @@
+micronaut:
+  application:
+    name: jpa
+datasources:
+  default:
+    url: ${JDBC_URL:`jdbc:postgresql://localhost:5432/micronaut`}
+    driverClassName: org.postgresql.Driver
+    username: ${JDBC_USER:micronaut}
+    password: ${JDBC_PASSWORD:micronaut}
+jpa.default.properties.hibernate.hbm2ddl.auto: update
