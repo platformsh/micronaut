@@ -10,5 +10,6 @@
   <modules>
       <module>jpa</module>
       <module>micronaut-data</module>
+      <module>mongodb</module>
   </modules>
 </project>
