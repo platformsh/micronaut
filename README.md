@@ -29,4 +29,5 @@ The following files and additions make the framework work.  If using this projec
 | [Hello World](https://dzone.com/articles/micronaut-cloud)   | [Source](https://github.com/platformsh-templates/micronaut) |
 | [JPA](https://dzone.com/articles/micronaut-cloud-jpa)       | [Source](jpa/)                                              |
 | [Micronaut Data](https://dzone.com/articles/micronaut-data) | [Source](micronaut-data)                                    |
+| [MongoDB](https://dzone.com/articles/micronaut-mongodb)     | [Source](mongodb)                                           |
 
